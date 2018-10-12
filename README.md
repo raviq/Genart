@@ -3,7 +3,7 @@
 # Generative Art
 
 <p align="center">
-	<img src="https://github.com/raviq/Genart/blob/master/ex.png" width="400">
+	<img src="https://github.com/raviq/Genart/blob/master/eg.png" width="400">
 </p>
 
 
