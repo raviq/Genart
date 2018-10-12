@@ -1,14 +1,17 @@
 
+
 # Generative Art
 
-## main.y
+- main.py : Random walking artist.
+- nautilus.py : Draws a 'nautilus' figure using repeated rotated and rescaled squares.
+- rwcross.py : Random walking artist with crossings a la GSB
 
-Random walking artist.
+## Prerequisites
+- Python
+- turtle
 
-## nautilus.py
 
-Draws a 'nautilus' figure using repeated rotated and rescaled squares.
 
-## rw_cross.py
 
-Random walking artist with crossings a la GSB.
+
+
