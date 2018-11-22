@@ -1,5 +1,4 @@
-# make drawing of repeated random walks using random colors
-# for each walk. Execute with 'python3 rw.py
+# Drawing of repeated random walks using random colors for each walk.
 
 from turtle import *
 from random import randint, uniform
