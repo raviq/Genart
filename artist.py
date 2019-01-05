@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Draw repeated random walks using a random colors
+=======
+# Drawing of repeated random walks using random colors for each walk.
+>>>>>>> 8e77e8766d998dfd2f320ecceb76c1aa3cfa29e0
 
 from turtle import *
 from random import randint, uniform
