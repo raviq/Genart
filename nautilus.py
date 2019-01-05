@@ -1,7 +1,7 @@
 
    
 def square(T, S):
-  """With turtle T,draw a square of size S."""
+  """ With turtle T,draw a square of size S. """
   for k in range(0,4):
     T.forward(S)
     T.left(90)

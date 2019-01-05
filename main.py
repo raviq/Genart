@@ -32,7 +32,6 @@ def repeat(trials):
 	while True:
 		random_walk(fred, 5, steps)
 
-  
 fred = Turtle()
 
 fred.speed("fastest")

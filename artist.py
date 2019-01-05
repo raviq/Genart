@@ -1,5 +1,4 @@
-# make drawing of repeated random walks using random colors
-# for each walk. Execute with 'python3 rw.py
+# Draw repeated random walks using a random colors
 
 from turtle import *
 from random import randint, uniform
@@ -36,7 +35,6 @@ def repeat(trials):
 	steps = 5000 # length of one branch?
 	while True:
 		random_walk(fred, 5, steps)
-
   
 fred = Turtle()
 
@@ -46,10 +44,9 @@ fred.dot(2, "red")
 colormode(255)
 bgcolor("black")
 
-print (' width, height = ', width, height)
+print (' width, height = %d, %d' % (width, height) )
 
 setup( width, height, startx = None, starty = None)
-
 
 repeat(20)
 
