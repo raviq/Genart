@@ -13,6 +13,7 @@
 ## Prerequisites
 - Python
 - Turtle
+- SBCL
 
 
 
