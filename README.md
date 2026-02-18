@@ -1,4 +1,4 @@
-# Genart — Generative Art in Python & Common Lisp
+# Genart — Generative Art
 
 <p align="center">
   <img src="https://github.com/raviq/Genart/blob/master/eg.png?raw=true" width="600" alt="Random walk generative art — colorful trails on a black canvas">
